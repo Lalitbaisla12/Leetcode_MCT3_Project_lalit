@@ -1,4 +1,8 @@
 # Leetcode_MCT3_Project
+# hosted link:
+https://nipun0607.github.io/Leetcode_MCT3_Project/Homepage/index.html
+# repo link:
+https://github.com/nipun0607/Leetcode_MCT3_Project
 # group project on leetcode
 # Nipun
 create the home page
@@ -10,3 +14,4 @@ create the problem page
 create the sotre and discuss page
 # aman 
 create the discuss page
+
