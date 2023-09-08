@@ -35,7 +35,7 @@ create the explore page
 # kaveri and sazil 
 create the problem page
 # lalit 
-create the sotre and discuss page
+create the sotre and contest page
 # aman 
 create the discuss page
 
